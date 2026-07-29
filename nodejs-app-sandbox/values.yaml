@@ -1,1 +1,2 @@
 image: mahmoud58/nodejs-app:14
+replicaCount: 2
