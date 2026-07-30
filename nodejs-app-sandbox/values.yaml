@@ -1,2 +1,2 @@
-image: mahmoud58/nodejs-app:14
+image: mahmoud58/nodejs-app:17
 replicaCount: 2
