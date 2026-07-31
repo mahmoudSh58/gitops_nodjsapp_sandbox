@@ -1,3 +1,0 @@
-namespace: sandbox
-image: mahmoud58/nodejs-app:24
-replicaCount: 1
